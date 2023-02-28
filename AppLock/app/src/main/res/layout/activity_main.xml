@@ -35,6 +35,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/tab_layout"
+                app:tabTextAppearance="@android:style/TextAppearance.Widget.TabWidget"
                 app:tabIndicator="@drawable/tab_indicator"
                 app:tabIndicatorColor="@color/white"
                 android:background="@color/blue"
